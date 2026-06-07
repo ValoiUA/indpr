@@ -12,31 +12,22 @@ namespace ind
 {
     public partial class Form3 : Form
     {
+        Form1 f1 = new Form1();
         public Form3()
         {
             InitializeComponent();
-            textBoxAX.KeyPress += checkDigit;
-            textBoxAY.KeyPress += checkDigit;
-            textBoxBX.KeyPress += checkDigit;
-            textBoxBY.KeyPress += checkDigit;
-            textBoxCX.KeyPress += checkDigit;
-            textBoxCY.KeyPress += checkDigit;
+            textBoxAX.KeyPress += f1.checkDigit;
+            textBoxAY.KeyPress += f1.checkDigit;
+            textBoxBX.KeyPress += f1.checkDigit;
+            textBoxBY.KeyPress += f1.checkDigit;
+            textBoxCX.KeyPress += f1.checkDigit;
+            textBoxCY.KeyPress += f1.checkDigit;
             MA.ReadOnly = true;
             MB.ReadOnly = true;
             MC.ReadOnly = true;
             textBox1.ReadOnly = true;
         }
-        private void checkDigit(object sender, KeyPressEventArgs e)
-        {
-            if (!char.IsControl(e.KeyChar) &&
-                !char.IsDigit(e.KeyChar) &&
-                e.KeyChar != ',' &&
-                e.KeyChar != '.' &&
-                e.KeyChar != '-')
-            {
-                e.Handled = true;
-            }
-        }
+       
 
         private void buttonres_Click(object sender, EventArgs e)
         {
@@ -80,6 +71,12 @@ namespace ind
         private void textBoxAX_KeyPress(object sender, KeyPressEventArgs e)
         {
 
+        }
+
+        private void Home_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            f1.Show();
         }
     }
 }

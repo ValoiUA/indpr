@@ -2,6 +2,56 @@ namespace ind
 {
     public partial class Form1 : Form
     {
+        public void checkDigit(object sender, KeyPressEventArgs e)
+        {
+            TextBox tb = (TextBox)sender;
+            if (!char.IsControl(e.KeyChar) &&
+                !char.IsDigit(e.KeyChar) &&
+                e.KeyChar != ',' &&
+                e.KeyChar != '.' &&
+                e.KeyChar != '-')
+            {
+                e.Handled = true;
+            }
+            if ("-,.".Contains(e.KeyChar) && (sender as TextBox).Text.Contains(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+            if (e.KeyChar == '-')
+            {
+                if (tb.SelectionStart != 0 || tb.Text.Contains("-"))
+                    e.Handled = true;
+
+                return;
+            }
+            if (e.KeyChar == ',' || e.KeyChar == '.')
+            {
+                if (tb.Text.Length == 0)
+                {
+                    e.Handled = true;
+                    return;
+                }
+                if (tb.Text == "-")
+                {
+                    e.Handled = true;
+                    return;
+                }
+                if (tb.Text.Length == 0)
+                {
+                    e.Handled = true;
+                    return;
+                }
+                if (tb.Text.Contains(",") || tb.Text.Contains("."))
+                {
+                    e.Handled = true;
+                    return;
+                }
+
+
+            }
+        }
+
+
         public void StyleButton(Button btn, Color backColor)
         {
             btn.FlatStyle = FlatStyle.Flat;
@@ -41,6 +91,27 @@ namespace ind
             Form3 f3 = new Form3();
             this.Hide();
             f3.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form4 form4 = new Form4();
+            this.Hide();
+            form4.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form5 form5 = new Form5();
+            this.Hide();
+            form5.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form6 f6 = new Form6();
+            this.Hide();
+            f6.Show();
         }
     }
 }

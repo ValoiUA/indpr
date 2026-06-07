@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\indpr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -11,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,6 +67,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "E:\\indpr\\ind\\Form6.cs",
+              "RelativeDocumentMoniker": "ind\\Form6.cs",
+              "ToolTip": "E:\\indpr\\ind\\Form6.cs",
+              "RelativeToolTip": "ind\\Form6.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowF4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:05:12.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "E:\\indpr\\ind\\Form6.cs",
               "RelativeDocumentMoniker": "ind\\Form6.cs",
@@ -71,6 +88,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T12:20:57.01Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\indpr\\ind\\Form1.cs",
+              "RelativeDocumentMoniker": "ind\\Form1.cs",
+              "ToolTip": "E:\\indpr\\ind\\Form1.cs",
+              "RelativeToolTip": "ind\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T17:57:54.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form5.cs",
               "DocumentMoniker": "E:\\indpr\\ind\\Form5.cs",
               "RelativeDocumentMoniker": "ind\\Form5.cs",
@@ -94,12 +124,11 @@
               "RelativeToolTip": "ind\\Form5.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAcwGIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T07:39:30.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T07:39:30.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form4.cs",
               "DocumentMoniker": "E:\\indpr\\ind\\Form4.cs",
               "RelativeDocumentMoniker": "ind\\Form4.cs",
@@ -112,19 +141,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "E:\\indpr\\ind\\Form4.cs",
               "RelativeDocumentMoniker": "ind\\Form4.cs",
               "ToolTip": "E:\\indpr\\ind\\Form4.cs [Design]",
               "RelativeToolTip": "ind\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T18:12:31.769Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-06T18:12:31.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form3.cs",
               "DocumentMoniker": "E:\\indpr\\ind\\Form3.cs",
               "RelativeDocumentMoniker": "ind\\Form3.cs",
@@ -137,19 +165,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "E:\\indpr\\ind\\Form3.cs",
               "RelativeDocumentMoniker": "ind\\Form3.cs",
               "ToolTip": "E:\\indpr\\ind\\Form3.cs [Design]",
               "RelativeToolTip": "ind\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T17:57:54.924Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-06T17:57:54.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\indpr\\ind\\Form1.cs",
               "RelativeDocumentMoniker": "ind\\Form1.cs",
@@ -161,20 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\indpr\\ind\\Form1.cs",
-              "RelativeDocumentMoniker": "ind\\Form1.cs",
-              "ToolTip": "E:\\indpr\\ind\\Form1.cs",
-              "RelativeToolTip": "ind\\Form1.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAEwHEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T17:57:54.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Form2.cs",
               "DocumentMoniker": "E:\\indpr\\ind\\Form2.cs",
               "RelativeDocumentMoniker": "ind\\Form2.cs",
@@ -187,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "E:\\indpr\\ind\\Form2.cs",
               "RelativeDocumentMoniker": "ind\\Form2.cs",

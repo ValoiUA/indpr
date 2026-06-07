@@ -37,3 +37,4 @@ E:\indpr\ind\obj\Debug\net8.0-windows\ind.genruntimeconfig.cache
 E:\indpr\ind\obj\Debug\net8.0-windows\ref\ind.dll
 E:\indpr\ind\obj\Debug\net8.0-windows\ind.Form4.resources
 E:\indpr\ind\obj\Debug\net8.0-windows\ind.Form5.resources
+E:\indpr\ind\obj\Debug\net8.0-windows\ind.Form6.resources

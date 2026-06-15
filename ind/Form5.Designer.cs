@@ -65,7 +65,7 @@
             Add.Name = "Add";
             Add.Size = new Size(75, 23);
             Add.TabIndex = 2;
-            Add.Text = "Add";
+            Add.Text = "Add num";
             Add.UseVisualStyleBackColor = true;
             Add.Click += Add_Click;
             // 
@@ -128,11 +128,11 @@
             // 
             // Remove
             // 
-            Remove.Location = new Point(65, 156);
+            Remove.Location = new Point(42, 154);
             Remove.Name = "Remove";
-            Remove.Size = new Size(75, 23);
+            Remove.Size = new Size(124, 23);
             Remove.TabIndex = 10;
-            Remove.Text = "Remove";
+            Remove.Text = "Remove num";
             Remove.UseVisualStyleBackColor = true;
             Remove.Click += Remove_Click;
             // 
@@ -165,6 +165,7 @@
             Controls.Add(label1);
             Name = "Form5";
             Text = "Form5";
+            Load += Form5_Load;
             ResumeLayout(false);
             PerformLayout();
         }

@@ -24,6 +24,7 @@ namespace ind
             textBoxCount.ReadOnly = true;
             textBoxSum.ReadOnly = true;
             textBoxMore.ReadOnly = true;
+            this.Text = "Робота з масивом";
         }
         private void UpdateInfo()
         {
@@ -95,6 +96,11 @@ namespace ind
         {
             this.Hide();
             f1.Show();
+        }
+
+        private void Form5_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

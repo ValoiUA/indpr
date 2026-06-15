@@ -43,6 +43,7 @@
             label7 = new Label();
             listBox1 = new ListBox();
             button1 = new Button();
+            label8 = new Label();
             SuspendLayout();
             // 
             // textBoxX1
@@ -141,9 +142,9 @@
             label6.AutoSize = true;
             label6.Location = new Point(552, 9);
             label6.Name = "label6";
-            label6.Size = new Size(71, 15);
+            label6.Size = new Size(77, 15);
             label6.TabIndex = 11;
-            label6.Text = "0.2 < y < 0.5";
+            label6.Text = "0.01 < y < 0.2";
             // 
             // label7
             // 
@@ -158,14 +159,15 @@
             // 
             listBox1.FormattingEnabled = true;
             listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(407, 259);
+            listBox1.Location = new Point(449, 159);
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(243, 154);
             listBox1.TabIndex = 13;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
             // button1
             // 
-            button1.Location = new Point(60, 372);
+            button1.Location = new Point(154, 369);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 14;
@@ -173,11 +175,21 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Location = new Point(129, 9);
+            label8.Name = "label8";
+            label8.Size = new Size(74, 15);
+            label8.TabIndex = 15;
+            label8.Text = "y = (lnx)/x^3";
+            // 
             // Form4
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(label8);
             Controls.Add(button1);
             Controls.Add(listBox1);
             Controls.Add(label7);
@@ -195,6 +207,7 @@
             Controls.Add(textBoxX1);
             Name = "Form4";
             Text = "Form4";
+            Load += Form4_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -216,5 +229,6 @@
         private Label label7;
         private ListBox listBox1;
         private Button button1;
+        private Label label8;
     }
 }

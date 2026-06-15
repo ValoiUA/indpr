@@ -46,12 +46,13 @@
             buttonres = new Button();
             textBox1 = new TextBox();
             Home = new Button();
+            label7 = new Label();
             SuspendLayout();
             // 
             // textBoxAX
             // 
             textBoxAX.Location = new Point(68, 40);
-            textBoxAX.Margin = new Padding(2, 2, 2, 2);
+            textBoxAX.Margin = new Padding(2);
             textBoxAX.Name = "textBoxAX";
             textBoxAX.Size = new Size(106, 23);
             textBoxAX.TabIndex = 0;
@@ -60,7 +61,7 @@
             // textBoxAY
             // 
             textBoxAY.Location = new Point(240, 40);
-            textBoxAY.Margin = new Padding(2, 2, 2, 2);
+            textBoxAY.Margin = new Padding(2);
             textBoxAY.Name = "textBoxAY";
             textBoxAY.Size = new Size(106, 23);
             textBoxAY.TabIndex = 1;
@@ -68,7 +69,7 @@
             // MA
             // 
             MA.Location = new Point(406, 40);
-            MA.Margin = new Padding(2, 2, 2, 2);
+            MA.Margin = new Padding(2);
             MA.Name = "MA";
             MA.Size = new Size(106, 23);
             MA.TabIndex = 2;
@@ -76,7 +77,7 @@
             // textBoxBX
             // 
             textBoxBX.Location = new Point(68, 85);
-            textBoxBX.Margin = new Padding(2, 2, 2, 2);
+            textBoxBX.Margin = new Padding(2);
             textBoxBX.Name = "textBoxBX";
             textBoxBX.Size = new Size(106, 23);
             textBoxBX.TabIndex = 3;
@@ -84,7 +85,7 @@
             // textBoxBY
             // 
             textBoxBY.Location = new Point(240, 85);
-            textBoxBY.Margin = new Padding(2, 2, 2, 2);
+            textBoxBY.Margin = new Padding(2);
             textBoxBY.Name = "textBoxBY";
             textBoxBY.Size = new Size(106, 23);
             textBoxBY.TabIndex = 4;
@@ -92,7 +93,7 @@
             // MB
             // 
             MB.Location = new Point(406, 85);
-            MB.Margin = new Padding(2, 2, 2, 2);
+            MB.Margin = new Padding(2);
             MB.Name = "MB";
             MB.Size = new Size(106, 23);
             MB.TabIndex = 5;
@@ -100,7 +101,7 @@
             // textBoxCX
             // 
             textBoxCX.Location = new Point(68, 129);
-            textBoxCX.Margin = new Padding(2, 2, 2, 2);
+            textBoxCX.Margin = new Padding(2);
             textBoxCX.Name = "textBoxCX";
             textBoxCX.Size = new Size(106, 23);
             textBoxCX.TabIndex = 6;
@@ -108,7 +109,7 @@
             // textBoxCY
             // 
             textBoxCY.Location = new Point(240, 129);
-            textBoxCY.Margin = new Padding(2, 2, 2, 2);
+            textBoxCY.Margin = new Padding(2);
             textBoxCY.Name = "textBoxCY";
             textBoxCY.Size = new Size(106, 23);
             textBoxCY.TabIndex = 7;
@@ -116,7 +117,7 @@
             // MC
             // 
             MC.Location = new Point(406, 129);
-            MC.Margin = new Padding(2, 2, 2, 2);
+            MC.Margin = new Padding(2);
             MC.Name = "MC";
             MC.Size = new Size(106, 23);
             MC.TabIndex = 8;
@@ -184,7 +185,7 @@
             // buttonres
             // 
             buttonres.Location = new Point(253, 174);
-            buttonres.Margin = new Padding(2, 2, 2, 2);
+            buttonres.Margin = new Padding(2);
             buttonres.Name = "buttonres";
             buttonres.Size = new Size(78, 20);
             buttonres.TabIndex = 15;
@@ -195,7 +196,7 @@
             // textBox1
             // 
             textBox1.Location = new Point(240, 226);
-            textBox1.Margin = new Padding(2, 2, 2, 2);
+            textBox1.Margin = new Padding(2);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(106, 23);
             textBox1.TabIndex = 16;
@@ -210,11 +211,21 @@
             Home.UseVisualStyleBackColor = true;
             Home.Click += Home_Click;
             // 
+            // label7
+            // 
+            label7.AutoSize = true;
+            label7.Location = new Point(1, 9);
+            label7.Name = "label7";
+            label7.Size = new Size(73, 15);
+            label7.TabIndex = 18;
+            label7.Text = "Координати";
+            // 
             // Form3
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(560, 270);
+            Controls.Add(label7);
             Controls.Add(Home);
             Controls.Add(textBox1);
             Controls.Add(buttonres);
@@ -233,9 +244,10 @@
             Controls.Add(MA);
             Controls.Add(textBoxAY);
             Controls.Add(textBoxAX);
-            Margin = new Padding(2, 2, 2, 2);
+            Margin = new Padding(2);
             Name = "Form3";
             Text = "Form3";
+            Load += Form3_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -260,5 +272,6 @@
         private Button buttonres;
         private TextBox textBox1;
         private Button Home;
+        private Label label7;
     }
 }

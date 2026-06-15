@@ -3,48 +3,72 @@
   "WorkspaceRootPath": "E:\\indpr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\dodlejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\dodlejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|E:\\indpr\\ind\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\dodlejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\dodlejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\casino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\ind.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\ind.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|e:\\indpr\\ind\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,44 +91,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form6.cs",
-              "DocumentMoniker": "E:\\indpr\\ind\\Form6.cs",
-              "RelativeDocumentMoniker": "ind\\Form6.cs",
-              "ToolTip": "E:\\indpr\\ind\\Form6.cs",
-              "RelativeToolTip": "ind\\Form6.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAowGkAAAA/AAAAAAAAAA==",
+              "Title": "DodleJump.cs [Design]",
+              "DocumentMoniker": "E:\\indpr\\ind\\DodleJump.cs",
+              "RelativeDocumentMoniker": "ind\\DodleJump.cs",
+              "ToolTip": "E:\\indpr\\ind\\DodleJump.cs [Design]",
+              "RelativeToolTip": "ind\\DodleJump.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T20:05:12.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form6.cs [Design]",
-              "DocumentMoniker": "E:\\indpr\\ind\\Form6.cs",
-              "RelativeDocumentMoniker": "ind\\Form6.cs",
-              "ToolTip": "E:\\indpr\\ind\\Form6.cs [Design]",
-              "RelativeToolTip": "ind\\Form6.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T12:20:57.01Z",
+              "WhenOpened": "2026-06-15T18:07:55.764Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\indpr\\ind\\Form1.cs",
-              "RelativeDocumentMoniker": "ind\\Form1.cs",
-              "ToolTip": "E:\\indpr\\ind\\Form1.cs",
-              "RelativeToolTip": "ind\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T17:57:54.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "E:\\indpr\\ind\\Form5.cs",
               "RelativeDocumentMoniker": "ind\\Form5.cs",
@@ -116,49 +114,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form5.cs",
-              "DocumentMoniker": "E:\\indpr\\ind\\Form5.cs",
-              "RelativeDocumentMoniker": "ind\\Form5.cs",
-              "ToolTip": "E:\\indpr\\ind\\Form5.cs",
-              "RelativeToolTip": "ind\\Form5.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T07:39:30.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form4.cs",
-              "DocumentMoniker": "E:\\indpr\\ind\\Form4.cs",
-              "RelativeDocumentMoniker": "ind\\Form4.cs",
-              "ToolTip": "E:\\indpr\\ind\\Form4.cs",
-              "RelativeToolTip": "ind\\Form4.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T20:02:48.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "E:\\indpr\\ind\\Form4.cs",
               "RelativeDocumentMoniker": "ind\\Form4.cs",
               "ToolTip": "E:\\indpr\\ind\\Form4.cs [Design]",
               "RelativeToolTip": "ind\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T18:12:31.769Z"
+              "WhenOpened": "2026-06-06T18:12:31.769Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form3.cs",
               "DocumentMoniker": "E:\\indpr\\ind\\Form3.cs",
               "RelativeDocumentMoniker": "ind\\Form3.cs",
               "ToolTip": "E:\\indpr\\ind\\Form3.cs",
               "RelativeToolTip": "ind\\Form3.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAA6wBcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-06T17:57:54.614Z",
               "EditorCaption": ""
@@ -172,11 +146,12 @@
               "ToolTip": "E:\\indpr\\ind\\Form3.cs [Design]",
               "RelativeToolTip": "ind\\Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T17:57:54.924Z"
+              "WhenOpened": "2026-06-06T17:57:54.924Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\indpr\\ind\\Form1.cs",
               "RelativeDocumentMoniker": "ind\\Form1.cs",
@@ -188,15 +163,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "E:\\indpr\\ind\\Form2.cs",
-              "RelativeDocumentMoniker": "ind\\Form2.cs",
-              "ToolTip": "E:\\indpr\\ind\\Form2.cs",
-              "RelativeToolTip": "ind\\Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "E:\\indpr\\ind\\Form4.cs",
+              "RelativeDocumentMoniker": "ind\\Form4.cs",
+              "ToolTip": "E:\\indpr\\ind\\Form4.cs",
+              "RelativeToolTip": "ind\\Form4.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwF0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T17:57:54.928Z",
+              "WhenOpened": "2026-06-06T20:02:48.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "E:\\indpr\\ind\\Form5.cs",
+              "RelativeDocumentMoniker": "ind\\Form5.cs",
+              "ToolTip": "E:\\indpr\\ind\\Form5.cs",
+              "RelativeToolTip": "ind\\Form5.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAD4vxoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T07:39:30.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "E:\\indpr\\ind\\Form6.cs",
+              "RelativeDocumentMoniker": "ind\\Form6.cs",
+              "ToolTip": "E:\\indpr\\ind\\Form6.cs [Design]",
+              "RelativeToolTip": "ind\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T12:20:57.01Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "E:\\indpr\\ind\\Form6.cs",
+              "RelativeDocumentMoniker": "ind\\Form6.cs",
+              "ToolTip": "E:\\indpr\\ind\\Form6.cs",
+              "RelativeToolTip": "ind\\Form6.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv3YAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T20:05:12.832Z",
               "EditorCaption": ""
             },
             {
@@ -208,7 +221,97 @@
               "ToolTip": "E:\\indpr\\ind\\Form2.cs [Design]",
               "RelativeToolTip": "ind\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T17:57:54.947Z"
+              "WhenOpened": "2026-06-06T17:57:54.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\indpr\\ind\\Form1.cs",
+              "RelativeDocumentMoniker": "ind\\Form1.cs",
+              "ToolTip": "E:\\indpr\\ind\\Form1.cs",
+              "RelativeToolTip": "ind\\Form1.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T17:57:54.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\indpr\\ind\\Program.cs",
+              "RelativeDocumentMoniker": "ind\\Program.cs",
+              "ToolTip": "E:\\indpr\\ind\\Program.cs",
+              "RelativeToolTip": "ind\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T18:23:44.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DodleJump.cs",
+              "DocumentMoniker": "E:\\indpr\\ind\\DodleJump.cs",
+              "RelativeDocumentMoniker": "ind\\DodleJump.cs",
+              "ToolTip": "E:\\indpr\\ind\\DodleJump.cs",
+              "RelativeToolTip": "ind\\DodleJump.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAqwE4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T18:07:58.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ind",
+              "DocumentMoniker": "E:\\indpr\\ind\\ind.csproj",
+              "RelativeDocumentMoniker": "ind\\ind.csproj",
+              "ToolTip": "E:\\indpr\\ind\\ind.csproj",
+              "RelativeToolTip": "ind\\ind.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-15T18:14:39.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "E:\\indpr\\ind\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "ind\\Properties\\Resources.resx",
+              "ToolTip": "E:\\indpr\\ind\\Properties\\Resources.resx",
+              "RelativeToolTip": "ind\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-15T18:14:44.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Casino.cs",
+              "DocumentMoniker": "E:\\indpr\\ind\\Casino.cs",
+              "RelativeDocumentMoniker": "ind\\Casino.cs",
+              "ToolTip": "E:\\indpr\\ind\\Casino.cs",
+              "RelativeToolTip": "ind\\Casino.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAwwFcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T18:17:55.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\indpr\\ind\\Form2.cs",
+              "RelativeDocumentMoniker": "ind\\Form2.cs",
+              "ToolTip": "E:\\indpr\\ind\\Form2.cs",
+              "RelativeToolTip": "ind\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T17:57:54.928Z",
+              "EditorCaption": ""
             }
           ]
         }

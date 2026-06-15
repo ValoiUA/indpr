@@ -1,3 +1,4 @@
+using Doodlejump;
 namespace ind
 {
     public partial class Form1 : Form
@@ -66,6 +67,7 @@ namespace ind
         public Form1()
         {
             InitializeComponent();
+            this.Text = "Home";
             StyleButton(button1, Color.Bisque);
             StyleButton(button2, Color.Bisque);
             StyleButton(button3, Color.Bisque);
@@ -112,6 +114,13 @@ namespace ind
             Form6 f6 = new Form6();
             this.Hide();
             f6.Show();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            DodleJump dj = new DodleJump();
+            this.Hide();
+            dj.Show();
         }
     }
 }

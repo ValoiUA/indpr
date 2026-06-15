@@ -26,8 +26,9 @@ namespace ind
             MB.ReadOnly = true;
             MC.ReadOnly = true;
             textBox1.ReadOnly = true;
+            this.Text = "Площа трикутника по медіанам";
         }
-       
+
 
         private void buttonres_Click(object sender, EventArgs e)
         {
@@ -77,6 +78,10 @@ namespace ind
         {
             this.Hide();
             f1.Show();
+        }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
         }
     }
 }

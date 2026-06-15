@@ -38,3 +38,17 @@ E:\indpr\ind\obj\Debug\net8.0-windows\ref\ind.dll
 E:\indpr\ind\obj\Debug\net8.0-windows\ind.Form4.resources
 E:\indpr\ind\obj\Debug\net8.0-windows\ind.Form5.resources
 E:\indpr\ind\obj\Debug\net8.0-windows\ind.Form6.resources
+E:\indpr\ind\obj\Debug\net8.0-windows\Doodlejump.Casino.resources
+E:\indpr\ind\obj\Debug\net8.0-windows\Doodlejump.DodleJump.resources
+E:\indpr\ind\obj\Debug\net8.0-windows\Doodlejump.FormLeaderBoard.resources
+E:\indpr\ind\obj\Debug\net8.0-windows\Doodlejump.FormSettings.resources
+E:\indpr\ind\obj\Debug\net8.0-windows\ind.Properties.Resources.resources
+E:\indpr\ind\bin\Debug\net8.0-windows\NAudio.dll
+E:\indpr\ind\bin\Debug\net8.0-windows\NAudio.Asio.dll
+E:\indpr\ind\bin\Debug\net8.0-windows\NAudio.Core.dll
+E:\indpr\ind\bin\Debug\net8.0-windows\NAudio.Midi.dll
+E:\indpr\ind\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+E:\indpr\ind\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+E:\indpr\ind\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+E:\indpr\ind\obj\Debug\net8.0-windows\ind.csproj.AssemblyReference.cache
+E:\indpr\ind\obj\Debug\net8.0-windows\ind.csproj.Up2Date

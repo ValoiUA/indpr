@@ -27,6 +27,7 @@ namespace ind
 
             dataGridView1.DefaultCellStyle.Alignment =
                 DataGridViewContentAlignment.MiddleCenter;
+            this.Text = "Робота з матрицею";
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -104,6 +105,29 @@ namespace ind
             double avg = sum / count;
 
             MessageBox.Show($"Середнє арифметичне = {avg:F2}");
+        }
+
+        private void Form6_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void buttonAuto_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.RowCount == 0 || dataGridView1.ColumnCount == 0)
+            {
+                MessageBox.Show("Спочатку створіть матрицю за допомогою кнопки створення!");
+                return;
+            }
+            Random rnd = new Random();
+            for (int i = 0; i < dataGridView1.RowCount; i++)
+            {
+                for (int j = 0; j < dataGridView1.ColumnCount; j++)
+                {
+                    int randomValue = rnd.Next(-50, 51);
+                    dataGridView1.Rows[i].Cells[j].Value = randomValue;
+                }
+            }
         }
     }
 }

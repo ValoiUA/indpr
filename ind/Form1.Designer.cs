@@ -100,6 +100,7 @@
             button5.TabIndex = 5;
             button5.Text = "5";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button6
             // 

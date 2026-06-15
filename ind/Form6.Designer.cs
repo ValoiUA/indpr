@@ -36,6 +36,7 @@
             label2 = new Label();
             buttonHome = new Button();
             buttonCalc = new Button();
+            buttonAuto = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownRows).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownCols).BeginInit();
@@ -67,11 +68,11 @@
             // 
             // buttonCreate
             // 
-            buttonCreate.Location = new Point(105, 119);
+            buttonCreate.Location = new Point(96, 119);
             buttonCreate.Name = "buttonCreate";
-            buttonCreate.Size = new Size(75, 23);
+            buttonCreate.Size = new Size(101, 23);
             buttonCreate.TabIndex = 3;
-            buttonCreate.Text = "Create";
+            buttonCreate.Text = "Create array";
             buttonCreate.UseVisualStyleBackColor = true;
             buttonCreate.Click += buttonCreate_Click;
             // 
@@ -95,7 +96,7 @@
             // 
             // buttonHome
             // 
-            buttonHome.Location = new Point(514, 53);
+            buttonHome.Location = new Point(271, 20);
             buttonHome.Name = "buttonHome";
             buttonHome.Size = new Size(75, 23);
             buttonHome.TabIndex = 6;
@@ -113,11 +114,22 @@
             buttonCalc.UseVisualStyleBackColor = true;
             buttonCalc.Click += buttonCalc_Click;
             // 
+            // buttonAuto
+            // 
+            buttonAuto.Location = new Point(441, 119);
+            buttonAuto.Name = "buttonAuto";
+            buttonAuto.Size = new Size(75, 23);
+            buttonAuto.TabIndex = 8;
+            buttonAuto.Text = "Autoadd";
+            buttonAuto.UseVisualStyleBackColor = true;
+            buttonAuto.Click += buttonAuto_Click;
+            // 
             // Form6
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(buttonAuto);
             Controls.Add(buttonCalc);
             Controls.Add(buttonHome);
             Controls.Add(label2);
@@ -128,6 +140,7 @@
             Controls.Add(dataGridView1);
             Name = "Form6";
             Text = "Form6";
+            Load += Form6_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownRows).EndInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownCols).EndInit();
@@ -145,5 +158,6 @@
         private Label label2;
         private Button buttonHome;
         private Button buttonCalc;
+        private Button buttonAuto;
     }
 }

@@ -49,12 +49,22 @@ namespace ind
                 return;
             }
 
+            if (move == 0)
+            {
+                MessageBox.Show("Крок не може дорівнювати 0");
+                return;
+            }
             if (x1 < x2)
             {
                 for (double i = x1; i <= x2; i += move)
                 {
+                    if (i <= 0)
+                    {
+                        listBox1.Items.Add($"X: {i:F2}, Y: не існує");
+                        continue;
+                    }
                     y = Math.Log2(i) / Math.Pow(i, 3);
-                    if (y < 0.5 && y > 0.2)
+                    if (y < 0.2 && y > 0.01)
                     {
                         sum += y;
                         count++;
@@ -64,32 +74,33 @@ namespace ind
                 }
 
             }
-            else if (x1 > x2) {
+            else if (x1 > x2)
             {
-                for (double i = x1; i >= x2; i += move)
                 {
-                    y = Math.Log2(i) / Math.Pow(i, 3);
-                    if (y < 0.5 && y > 0.2)
+                    for (double i = x1; i >= x2; i += move)
                     {
-                        sum += y;
-                        count++;
+                        y = Math.Log2(i) / Math.Pow(i, 3);
+                        if (y < 0.2 && y > 0.01)
+                        {
+                            sum += y;
+                            count++;
+                        }
+                        listBox1.Items.Add($"X: {i:F2}, Y: {y:F4}");
                     }
-                    listBox1.Items.Add($"X: {i:F2}, Y: {y:F4}");
                 }
             }
-            textBoxSum.Text = sum.ToString("F4");
-            textBoxCount.Text = count.ToString();
-        }
             else
             {
                 y = Math.Log2(x1) / Math.Pow(x1, 3);
-                if (y < 0.5 && y > 0.2)
+                if (y < 0.2 && y > 0.01)
                 {
                     sum += y;
                     count++;
                 }
                 listBox1.Items.Add($"X: {x1:F2}, Y: {y:F4}");
             }
+            textBoxCount.Text = count.ToString();
+            textBoxSum.Text = sum.ToString();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -100,6 +111,11 @@ namespace ind
 
         private void textBoxSum_TextChanged(object sender, EventArgs e)
         {
+        }
+
+        private void Form4_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

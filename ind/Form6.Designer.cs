@@ -44,32 +44,37 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(12, 148);
+            dataGridView1.Location = new Point(17, 247);
+            dataGridView1.Margin = new Padding(4, 5, 4, 5);
             dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(742, 277);
+            dataGridView1.RowHeadersWidth = 62;
+            dataGridView1.Size = new Size(1060, 462);
             dataGridView1.TabIndex = 0;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             dataGridView1.EditingControlShowing += dataGridView1_EditingControlShowing;
             // 
             // numericUpDownRows
             // 
-            numericUpDownRows.Location = new Point(86, 12);
+            numericUpDownRows.Location = new Point(123, 20);
+            numericUpDownRows.Margin = new Padding(4, 5, 4, 5);
             numericUpDownRows.Name = "numericUpDownRows";
-            numericUpDownRows.Size = new Size(120, 23);
+            numericUpDownRows.Size = new Size(171, 31);
             numericUpDownRows.TabIndex = 1;
             // 
             // numericUpDownCols
             // 
-            numericUpDownCols.Location = new Point(86, 55);
+            numericUpDownCols.Location = new Point(123, 92);
+            numericUpDownCols.Margin = new Padding(4, 5, 4, 5);
             numericUpDownCols.Name = "numericUpDownCols";
-            numericUpDownCols.Size = new Size(120, 23);
+            numericUpDownCols.Size = new Size(171, 31);
             numericUpDownCols.TabIndex = 2;
             // 
             // buttonCreate
             // 
-            buttonCreate.Location = new Point(105, 119);
+            buttonCreate.Location = new Point(150, 198);
+            buttonCreate.Margin = new Padding(4, 5, 4, 5);
             buttonCreate.Name = "buttonCreate";
-            buttonCreate.Size = new Size(75, 23);
+            buttonCreate.Size = new Size(107, 38);
             buttonCreate.TabIndex = 3;
             buttonCreate.Text = "Create";
             buttonCreate.UseVisualStyleBackColor = true;
@@ -78,26 +83,29 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(24, 20);
+            label1.Location = new Point(34, 33);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(35, 15);
+            label1.Size = new Size(54, 25);
             label1.TabIndex = 4;
             label1.Text = "Rows";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(24, 63);
+            label2.Location = new Point(34, 105);
+            label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new Size(30, 15);
+            label2.Size = new Size(46, 25);
             label2.TabIndex = 5;
             label2.Text = "Cols";
             // 
             // buttonHome
             // 
-            buttonHome.Location = new Point(514, 53);
+            buttonHome.Location = new Point(734, 88);
+            buttonHome.Margin = new Padding(4, 5, 4, 5);
             buttonHome.Name = "buttonHome";
-            buttonHome.Size = new Size(75, 23);
+            buttonHome.Size = new Size(107, 38);
             buttonHome.TabIndex = 6;
             buttonHome.Text = "Home";
             buttonHome.UseVisualStyleBackColor = true;
@@ -105,9 +113,10 @@
             // 
             // buttonCalc
             // 
-            buttonCalc.Location = new Point(271, 119);
+            buttonCalc.Location = new Point(387, 198);
+            buttonCalc.Margin = new Padding(4, 5, 4, 5);
             buttonCalc.Name = "buttonCalc";
-            buttonCalc.Size = new Size(75, 23);
+            buttonCalc.Size = new Size(107, 38);
             buttonCalc.TabIndex = 7;
             buttonCalc.Text = "Calc";
             buttonCalc.UseVisualStyleBackColor = true;
@@ -115,9 +124,9 @@
             // 
             // Form6
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1143, 750);
             Controls.Add(buttonCalc);
             Controls.Add(buttonHome);
             Controls.Add(label2);
@@ -126,8 +135,10 @@
             Controls.Add(numericUpDownCols);
             Controls.Add(numericUpDownRows);
             Controls.Add(dataGridView1);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "Form6";
             Text = "Form6";
+            Load += Form6_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownRows).EndInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownCols).EndInit();

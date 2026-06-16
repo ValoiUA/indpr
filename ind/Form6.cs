@@ -105,5 +105,10 @@ namespace ind
 
             MessageBox.Show($"Середнє арифметичне = {avg:F2}");
         }
+
+        private void Form6_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

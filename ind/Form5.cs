@@ -36,7 +36,7 @@ namespace ind
             {
                 if ((i + 1) % 2 == 0)
                     sumOdd += numbers[i];
-                if (((int)numbers[i]) % 2 != 0)
+                if ((i + 1) % 2 != 0)
                     evenCount++;
                 if (numbers[i] > 3)
                     mtt += numbers[i] * numbers[i];

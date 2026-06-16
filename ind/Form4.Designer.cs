@@ -48,42 +48,47 @@
             // 
             // textBoxX1
             // 
-            textBoxX1.Location = new Point(129, 44);
+            textBoxX1.Location = new Point(184, 73);
+            textBoxX1.Margin = new Padding(4, 5, 4, 5);
             textBoxX1.Name = "textBoxX1";
-            textBoxX1.Size = new Size(100, 23);
+            textBoxX1.Size = new Size(141, 31);
             textBoxX1.TabIndex = 0;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(36, 47);
+            label1.Location = new Point(51, 78);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(58, 15);
+            label1.Size = new Size(91, 25);
             label1.TabIndex = 1;
             label1.Text = " Inp first x";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(36, 104);
+            label2.Location = new Point(24, 173);
+            label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new Size(58, 15);
+            label2.Size = new Size(118, 25);
             label2.TabIndex = 2;
-            label2.Text = " Inp first x";
+            label2.Text = " Inp second x";
             label2.Click += label2_Click;
             // 
             // textBoxX2
             // 
-            textBoxX2.Location = new Point(129, 104);
+            textBoxX2.Location = new Point(184, 173);
+            textBoxX2.Margin = new Padding(4, 5, 4, 5);
             textBoxX2.Name = "textBoxX2";
-            textBoxX2.Size = new Size(100, 23);
+            textBoxX2.Size = new Size(141, 31);
             textBoxX2.TabIndex = 3;
             // 
             // Result
             // 
-            Result.Location = new Point(154, 214);
+            Result.Location = new Point(220, 357);
+            Result.Margin = new Padding(4, 5, 4, 5);
             Result.Name = "Result";
-            Result.Size = new Size(75, 23);
+            Result.Size = new Size(107, 38);
             Result.TabIndex = 4;
             Result.Text = "Res";
             Result.UseVisualStyleBackColor = true;
@@ -91,85 +96,95 @@
             // 
             // textBoxMove
             // 
-            textBoxMove.Location = new Point(129, 159);
+            textBoxMove.Location = new Point(184, 265);
+            textBoxMove.Margin = new Padding(4, 5, 4, 5);
             textBoxMove.Name = "textBoxMove";
-            textBoxMove.Size = new Size(100, 23);
+            textBoxMove.Size = new Size(141, 31);
             textBoxMove.TabIndex = 5;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(36, 167);
+            label3.Location = new Point(51, 278);
+            label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
-            label3.Size = new Size(57, 15);
+            label3.Size = new Size(88, 25);
             label3.TabIndex = 6;
             label3.Text = " Int move";
             // 
             // textBoxSum
             // 
-            textBoxSum.Location = new Point(536, 44);
+            textBoxSum.Location = new Point(766, 73);
+            textBoxSum.Margin = new Padding(4, 5, 4, 5);
             textBoxSum.Name = "textBoxSum";
-            textBoxSum.Size = new Size(100, 23);
+            textBoxSum.Size = new Size(141, 31);
             textBoxSum.TabIndex = 7;
             textBoxSum.TextChanged += textBoxSum_TextChanged;
             // 
             // textBoxCount
             // 
-            textBoxCount.Location = new Point(536, 96);
+            textBoxCount.Location = new Point(766, 160);
+            textBoxCount.Margin = new Padding(4, 5, 4, 5);
             textBoxCount.Name = "textBoxCount";
-            textBoxCount.Size = new Size(100, 23);
+            textBoxCount.Size = new Size(141, 31);
             textBoxCount.TabIndex = 8;
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(449, 47);
+            label4.Location = new Point(641, 78);
+            label4.Margin = new Padding(4, 0, 4, 0);
             label4.Name = "label4";
-            label4.Size = new Size(0, 15);
+            label4.Size = new Size(0, 25);
             label4.TabIndex = 9;
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(496, 47);
+            label5.Location = new Point(709, 78);
+            label5.Margin = new Padding(4, 0, 4, 0);
             label5.Name = "label5";
-            label5.Size = new Size(34, 15);
+            label5.Size = new Size(53, 25);
             label5.TabIndex = 10;
             label5.Text = "Sum ";
             // 
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(552, 9);
+            label6.Location = new Point(789, 15);
+            label6.Margin = new Padding(4, 0, 4, 0);
             label6.Name = "label6";
-            label6.Size = new Size(77, 15);
+            label6.Size = new Size(123, 25);
             label6.TabIndex = 11;
             label6.Text = "0.01 < y < 0.2";
             // 
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(490, 104);
+            label7.Location = new Point(700, 173);
+            label7.Margin = new Padding(4, 0, 4, 0);
             label7.Name = "label7";
-            label7.Size = new Size(40, 15);
+            label7.Size = new Size(60, 25);
             label7.TabIndex = 12;
             label7.Text = "Count";
             // 
             // listBox1
             // 
             listBox1.FormattingEnabled = true;
-            listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(449, 159);
+            listBox1.ItemHeight = 25;
+            listBox1.Location = new Point(641, 265);
+            listBox1.Margin = new Padding(4, 5, 4, 5);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(243, 154);
+            listBox1.Size = new Size(345, 254);
             listBox1.TabIndex = 13;
             listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
             // button1
             // 
-            button1.Location = new Point(154, 369);
+            button1.Location = new Point(220, 615);
+            button1.Margin = new Padding(4, 5, 4, 5);
             button1.Name = "button1";
-            button1.Size = new Size(75, 23);
+            button1.Size = new Size(107, 38);
             button1.TabIndex = 14;
             button1.Text = "Home";
             button1.UseVisualStyleBackColor = true;
@@ -178,17 +193,18 @@
             // label8
             // 
             label8.AutoSize = true;
-            label8.Location = new Point(129, 9);
+            label8.Location = new Point(184, 15);
+            label8.Margin = new Padding(4, 0, 4, 0);
             label8.Name = "label8";
-            label8.Size = new Size(74, 15);
+            label8.Size = new Size(112, 25);
             label8.TabIndex = 15;
             label8.Text = "y = (lnx)/x^3";
             // 
             // Form4
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1143, 750);
             Controls.Add(label8);
             Controls.Add(button1);
             Controls.Add(listBox1);
@@ -205,6 +221,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(textBoxX1);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "Form4";
             Text = "Form4";
             Load += Form4_Load;

@@ -34,9 +34,10 @@
             // 
             // buttonLeave
             // 
-            buttonLeave.Location = new Point(110, 338);
+            buttonLeave.Location = new Point(157, 563);
+            buttonLeave.Margin = new Padding(4, 5, 4, 5);
             buttonLeave.Name = "buttonLeave";
-            buttonLeave.Size = new Size(95, 23);
+            buttonLeave.Size = new Size(136, 38);
             buttonLeave.TabIndex = 0;
             buttonLeave.Text = "Leave";
             buttonLeave.UseVisualStyleBackColor = true;
@@ -45,19 +46,22 @@
             // listBoxLeaderBoard
             // 
             listBoxLeaderBoard.FormattingEnabled = true;
-            listBoxLeaderBoard.ItemHeight = 15;
-            listBoxLeaderBoard.Location = new Point(33, 12);
+            listBoxLeaderBoard.ItemHeight = 25;
+            listBoxLeaderBoard.Location = new Point(47, 20);
+            listBoxLeaderBoard.Margin = new Padding(4, 5, 4, 5);
             listBoxLeaderBoard.Name = "listBoxLeaderBoard";
-            listBoxLeaderBoard.Size = new Size(308, 319);
+            listBoxLeaderBoard.Size = new Size(438, 529);
             listBoxLeaderBoard.TabIndex = 1;
+            listBoxLeaderBoard.SelectedIndexChanged += listBoxLeaderBoard_SelectedIndexChanged;
             // 
             // FormLeaderBoard
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(411, 411);
+            ClientSize = new Size(587, 685);
             Controls.Add(listBoxLeaderBoard);
             Controls.Add(buttonLeave);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "FormLeaderBoard";
             Text = "FormLeaderBoard";
             Load += FormLeaderBoard_Load;

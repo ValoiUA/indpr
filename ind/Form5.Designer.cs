@@ -45,25 +45,28 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(65, 23);
+            label1.Location = new Point(93, 38);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(116, 15);
+            label1.Size = new Size(176, 25);
             label1.TabIndex = 0;
             label1.Text = "Input number for list";
             // 
             // textBoxArray
             // 
-            textBoxArray.Location = new Point(42, 57);
+            textBoxArray.Location = new Point(60, 95);
+            textBoxArray.Margin = new Padding(4, 5, 4, 5);
             textBoxArray.Name = "textBoxArray";
-            textBoxArray.Size = new Size(218, 23);
+            textBoxArray.Size = new Size(310, 31);
             textBoxArray.TabIndex = 1;
             textBoxArray.TextChanged += textBoxArray_TextChanged_1;
             // 
             // Add
             // 
-            Add.Location = new Point(65, 114);
+            Add.Location = new Point(93, 190);
+            Add.Margin = new Padding(4, 5, 4, 5);
             Add.Name = "Add";
-            Add.Size = new Size(75, 23);
+            Add.Size = new Size(107, 38);
             Add.TabIndex = 2;
             Add.Text = "Add num";
             Add.UseVisualStyleBackColor = true;
@@ -72,65 +75,73 @@
             // listBox1
             // 
             listBox1.FormattingEnabled = true;
-            listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(344, 23);
+            listBox1.ItemHeight = 25;
+            listBox1.Location = new Point(491, 38);
+            listBox1.Margin = new Padding(4, 5, 4, 5);
             listBox1.Name = "listBox1";
-            listBox1.Size = new Size(342, 184);
+            listBox1.Size = new Size(487, 304);
             listBox1.TabIndex = 3;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(344, 248);
+            label2.Location = new Point(491, 413);
+            label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new Size(56, 15);
+            label2.Size = new Size(85, 25);
             label2.TabIndex = 4;
             label2.Text = "SumEven";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(344, 286);
+            label3.Location = new Point(491, 477);
+            label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
-            label3.Size = new Size(71, 15);
+            label3.Size = new Size(162, 25);
             label3.TabIndex = 5;
-            label3.Text = "More than 3";
+            label3.Text = "Power more than 3";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(344, 335);
+            label4.Location = new Point(491, 558);
+            label4.Margin = new Padding(4, 0, 4, 0);
             label4.Name = "label4";
-            label4.Size = new Size(63, 15);
+            label4.Size = new Size(96, 25);
             label4.TabIndex = 6;
             label4.Text = "CountOdd";
             // 
             // textBoxSum
             // 
-            textBoxSum.Location = new Point(469, 245);
+            textBoxSum.Location = new Point(670, 408);
+            textBoxSum.Margin = new Padding(4, 5, 4, 5);
             textBoxSum.Name = "textBoxSum";
-            textBoxSum.Size = new Size(100, 23);
+            textBoxSum.Size = new Size(141, 31);
             textBoxSum.TabIndex = 7;
             // 
             // textBoxMore
             // 
-            textBoxMore.Location = new Point(469, 283);
+            textBoxMore.Location = new Point(670, 472);
+            textBoxMore.Margin = new Padding(4, 5, 4, 5);
             textBoxMore.Name = "textBoxMore";
-            textBoxMore.Size = new Size(100, 23);
+            textBoxMore.Size = new Size(141, 31);
             textBoxMore.TabIndex = 8;
             // 
             // textBoxCount
             // 
-            textBoxCount.Location = new Point(469, 332);
+            textBoxCount.Location = new Point(670, 553);
+            textBoxCount.Margin = new Padding(4, 5, 4, 5);
             textBoxCount.Name = "textBoxCount";
-            textBoxCount.Size = new Size(100, 23);
+            textBoxCount.Size = new Size(141, 31);
             textBoxCount.TabIndex = 9;
             // 
             // Remove
             // 
-            Remove.Location = new Point(42, 154);
+            Remove.Location = new Point(60, 257);
+            Remove.Margin = new Padding(4, 5, 4, 5);
             Remove.Name = "Remove";
-            Remove.Size = new Size(124, 23);
+            Remove.Size = new Size(177, 38);
             Remove.TabIndex = 10;
             Remove.Text = "Remove num";
             Remove.UseVisualStyleBackColor = true;
@@ -138,9 +149,10 @@
             // 
             // Home
             // 
-            Home.Location = new Point(50, 317);
+            Home.Location = new Point(71, 528);
+            Home.Margin = new Padding(4, 5, 4, 5);
             Home.Name = "Home";
-            Home.Size = new Size(90, 24);
+            Home.Size = new Size(129, 40);
             Home.TabIndex = 11;
             Home.Text = "Home";
             Home.UseVisualStyleBackColor = true;
@@ -148,9 +160,9 @@
             // 
             // Form5
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1143, 750);
             Controls.Add(Home);
             Controls.Add(Remove);
             Controls.Add(textBoxCount);
@@ -163,6 +175,7 @@
             Controls.Add(Add);
             Controls.Add(textBoxArray);
             Controls.Add(label1);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "Form5";
             Text = "Form5";
             Load += Form5_Load;

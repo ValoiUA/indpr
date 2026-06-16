@@ -459,7 +459,7 @@ namespace Doodlejump
                             $"Тебе з'їв монстр!\nТвій результат: {score} очків."
                         );
                         ShowMainMenu();
-                        listBoxHistory.Items.Add($"{currentPlayerName}\t{score}\tMonstr");
+                        listBoxHistory.Items.Insert(1, $"{currentPlayerName}\t{score}\tDroped");
                         return;
                     }
                 }
@@ -606,7 +606,7 @@ namespace Doodlejump
                     $"Гравець: {currentPlayerName}"
                 );
                 ShowMainMenu();
-                listBoxHistory.Items.Add($"{currentPlayerName}\t{score}\tDroped");
+                listBoxHistory.Items.Insert(1, $"{currentPlayerName}\t{score}\tDroped");
                 return;
             }
             this.Invalidate();

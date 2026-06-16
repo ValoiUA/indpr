@@ -43,12 +43,18 @@ namespace Doodlejump
 
         private void FormLeaderBoard_Load(object sender, EventArgs e)
         {
-
+            listBoxLeaderBoard.Left = (this.ClientSize.Width - listBoxLeaderBoard.Width) / 2 + 20;
+            listBoxLeaderBoard.Top = (this.ClientSize.Height - listBoxLeaderBoard.Height) / 2 + 80;
         }
 
         private void buttonLeave_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void listBoxLeaderBoard_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

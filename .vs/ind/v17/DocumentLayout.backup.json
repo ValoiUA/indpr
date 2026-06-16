@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\dodlejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\dodlejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\dodlejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\dodlejump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +45,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\formleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\formleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|c:\\users\\pc\\desktop\\vlad\\praktika\\ind\\ind\\formleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88ED4E9F-2701-4838-9B02-36D09A1C4572}|ind\\ind.csproj|solutionrelative:ind\\formleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,28 +74,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form3.cs",
-              "RelativeDocumentMoniker": "ind\\Form3.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form3.cs",
-              "RelativeToolTip": "ind\\Form3.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAcwEsAAAAKAAAAAAAAAA==",
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form6.cs",
+              "RelativeDocumentMoniker": "ind\\Form6.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form6.cs",
+              "RelativeToolTip": "ind\\Form6.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAgwHQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T07:43:52.115Z",
+              "WhenOpened": "2026-06-16T07:57:23.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form6.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form6.cs",
+              "RelativeDocumentMoniker": "ind\\Form6.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form6.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ind\\Form6.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:46:05.054Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form4.cs",
+              "RelativeDocumentMoniker": "ind\\Form4.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ind\\Form4.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:59:03.085Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form5.cs",
+              "RelativeDocumentMoniker": "ind\\Form5.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form5.cs",
+              "RelativeToolTip": "ind\\Form5.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T06:50:59.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form5.cs",
+              "RelativeDocumentMoniker": "ind\\Form5.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ind\\Form5.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T06:48:34.913Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form3.cs",
               "RelativeDocumentMoniker": "ind\\Form3.cs",
@@ -67,7 +160,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "DodleJump.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\DodleJump.cs",
+              "RelativeDocumentMoniker": "ind\\DodleJump.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\DodleJump.cs",
+              "RelativeToolTip": "ind\\DodleJump.cs",
+              "ViewState": "AgIAAFMCAAAAAAAAAAAAAGwCAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:03:48.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form4.cs",
+              "RelativeDocumentMoniker": "ind\\Form4.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form4.cs",
+              "RelativeToolTip": "ind\\Form4.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:08:36.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DodleJump.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\DodleJump.cs",
+              "RelativeDocumentMoniker": "ind\\DodleJump.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\DodleJump.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ind\\DodleJump.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T07:03:45.639Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form1.cs",
               "RelativeDocumentMoniker": "ind\\Form1.cs",
@@ -79,40 +210,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form1.cs",
-              "RelativeDocumentMoniker": "ind\\Form1.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form1.cs",
-              "RelativeToolTip": "ind\\Form1.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T07:15:47.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form2.cs",
               "RelativeDocumentMoniker": "ind\\Form2.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form2.cs",
               "RelativeToolTip": "ind\\Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T07:20:49.705Z",
+              "WhenOpened": "2026-06-16T06:39:28.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form2.cs",
               "RelativeDocumentMoniker": "ind\\Form2.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "ind\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T07:19:35.044Z",
+              "WhenOpened": "2026-06-16T06:39:20.216Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form1.cs",
+              "RelativeDocumentMoniker": "ind\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form1.cs",
+              "RelativeToolTip": "ind\\Form1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAtwFYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T07:15:47.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form3.cs",
+              "RelativeDocumentMoniker": "ind\\Form3.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\Form3.cs",
+              "RelativeToolTip": "ind\\Form3.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv1cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T07:43:52.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormLeaderBoard.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\FormLeaderBoard.cs",
+              "RelativeDocumentMoniker": "ind\\FormLeaderBoard.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\FormLeaderBoard.cs",
+              "RelativeToolTip": "ind\\FormLeaderBoard.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:47:21.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormLeaderBoard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\FormLeaderBoard.cs",
+              "RelativeDocumentMoniker": "ind\\FormLeaderBoard.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\VLAD\\praktika\\ind\\ind\\FormLeaderBoard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ind\\FormLeaderBoard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T05:46:58.865Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
             }
           ]
